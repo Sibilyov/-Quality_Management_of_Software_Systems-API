@@ -2,11 +2,8 @@
 Проверка функций API и тестирование приложения
 ![image](https://user-images.githubusercontent.com/90633901/146736199-7db4961d-5ac8-47a2-91cf-735f77eaa981.png)
 Все функции отображаються на сайте - https://petfriends1.herokuapp.com/all_pets
-
 Публикация питомца без фото:
 ![image](https://user-images.githubusercontent.com/90633901/146736533-6774788f-8d8b-460e-a177-9bc8432bff2a.png)
-
-
 Получения API ключа:
 ![image](https://user-images.githubusercontent.com/90633901/146736586-bdac1d3e-611e-4c1b-8cab-19f48132c750.png)
 Получение списка питомцев:
@@ -21,7 +18,9 @@
 ![image](https://user-images.githubusercontent.com/90633901/146736957-8ae7e682-c140-4e53-b4d9-c48008f5eb7e.png)
 По заданию добавили фикстуры:
 ![image](https://user-images.githubusercontent.com/90633901/146737847-b5aa089d-e45f-4aed-85a5-159dbcd0933d.png)
-![image](https://user-images.githubusercontent.com/90633901/146737858-345dc026-f684-4a2d-b43d-70a9f47d3dc5.png)![146736533-6774788f-8d8b-460e-a177-9bc8432bff2a](https://user-images.githubusercontent.com/90633901/146738948-54e9f042-d408-4057-b0cd-09fd4057035e.png)![146736846-a0feac22-dc4e-48b5-8c4d-a58774055a58](https://user-images.githubusercontent.com/90633901/146738990-883d20ff-15a9-4070-a2c3-2f9044459cc4.png)
+![image](https://user-images.githubusercontent.com/90633901/146737858-345dc026-f684-4a2d-b43d-70a9f47d3dc5.png)
+![146736533-6774788f-8d8b-460e-a177-9bc8432bff2a](https://user-images.githubusercontent.com/90633901/146738948-54e9f042-d408-4057-b0cd-09fd4057035e.png)
+![146736846-a0feac22-dc4e-48b5-8c4d-a58774055a58](https://user-images.githubusercontent.com/90633901/146738990-883d20ff-15a9-4070-a2c3-2f9044459cc4.png)
 
 
 И параметризацию:
