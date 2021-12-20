@@ -21,7 +21,9 @@ https://petfriends1.herokuapp.com/all_pets
 По заданию добавили фикстуры:
 ![image](https://user-images.githubusercontent.com/90633901/146737847-b5aa089d-e45f-4aed-85a5-159dbcd0933d.png)
 ![image](https://user-images.githubusercontent.com/90633901/146737858-345dc026-f684-4a2d-b43d-70a9f47d3dc5.png)
+
 И параметризацию:
+
 ![image](https://user-images.githubusercontent.com/90633901/146737911-8243080c-006c-4931-accf-34d63ef4bdff.png)
 По заданию нужно, чтоб тесты содержали не только положительные, но и отрицательные сценарии:
 ![image](https://user-images.githubusercontent.com/90633901/146737972-54fdd162-e24c-4b84-9758-567bbc503f78.png)
