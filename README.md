@@ -26,3 +26,4 @@
 По заданию нужно, чтоб тесты содержали не только положительные, но и отрицательные сценарии:
 ![image](https://user-images.githubusercontent.com/90633901/146737972-54fdd162-e24c-4b84-9758-567bbc503f78.png)
 Проверяем работу теста:
+![image](https://user-images.githubusercontent.com/90633901/146812763-fe501042-4498-468d-ac06-974c1350188f.png)
