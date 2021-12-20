@@ -2,6 +2,7 @@
 Проверка функций API и тестирование приложения
 ![image](https://user-images.githubusercontent.com/90633901/146736199-7db4961d-5ac8-47a2-91cf-735f77eaa981.png)
 Все функции отображаються на сайте - https://petfriends1.herokuapp.com/all_pets
+
 Публикация питомца без фото:
 ![image](https://user-images.githubusercontent.com/90633901/146736533-6774788f-8d8b-460e-a177-9bc8432bff2a.png)
 
