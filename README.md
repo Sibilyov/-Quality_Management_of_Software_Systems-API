@@ -2,11 +2,9 @@
 Проверка функций API и тестирование приложения
 ![image](https://user-images.githubusercontent.com/90633901/146736199-7db4961d-5ac8-47a2-91cf-735f77eaa981.png)
 Все функции отображаються на сайте - https://petfriends1.herokuapp.com/all_pets
-
-  Публикация питомца без фото:
+ Публикация питомца без фото:
 ![image](https://user-images.githubusercontent.com/90633901/146736533-6774788f-8d8b-460e-a177-9bc8432bff2a.png)
-
-   Получения API ключа:
+  Получения API ключа:
 ![image](https://user-images.githubusercontent.com/90633901/146736586-bdac1d3e-611e-4c1b-8cab-19f48132c750.png)
 
 Получение списка питомцев:
@@ -24,10 +22,6 @@
 ![image](https://user-images.githubusercontent.com/90633901/146737847-b5aa089d-e45f-4aed-85a5-159dbcd0933d.png)
 ![image](https://user-images.githubusercontent.com/90633901/146737858-345dc026-f684-4a2d-b43d-70a9f47d3dc5.png)
 И параметризацию:
-
-
-
-
 ![image](https://user-images.githubusercontent.com/90633901/146737911-8243080c-006c-4931-accf-34d63ef4bdff.png)
 По заданию нужно, чтоб тесты содержали не только положительные, но и отрицательные сценарии:
 ![image](https://user-images.githubusercontent.com/90633901/146737972-54fdd162-e24c-4b84-9758-567bbc503f78.png)
