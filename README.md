@@ -1,21 +1,21 @@
 # -Quality_Management_of_Software_Systems-API
 Проверка функций API и тестирование приложения
 ![image](https://user-images.githubusercontent.com/90633901/146736199-7db4961d-5ac8-47a2-91cf-735f77eaa981.png)
-Все функции отображаються на сайте - https://petfriends1.herokuapp.com/all_pets
+Все функции отображаються на сайте -
+https://petfriends1.herokuapp.com/all_pets
+ 
  Публикация питомца без фото:
-![image](https://user-images.githubusercontent.com/90633901/146736533-6774788f-8d8b-460e-a177-9bc8432bff2a.png)
+![image](https://user-images.githubusercontent.com/90633901/146813016-6f8b945e-7e7b-4d81-ab71-1e0efdf3a268.png)
   Получения API ключа:
-![image](https://user-images.githubusercontent.com/90633901/146736586-bdac1d3e-611e-4c1b-8cab-19f48132c750.png)
-
+![image](https://user-images.githubusercontent.com/90633901/146813076-8ed078ef-1a50-437f-8d95-98ae44211e2c.png)
 Получение списка питомцев:
-
 ![image](https://user-images.githubusercontent.com/90633901/146736654-c0903997-c1f4-4285-8772-685f09d8425b.png)
 Публикация нового питомца:
 ![image](https://user-images.githubusercontent.com/90633901/146736728-4a33edc3-877a-427a-8e29-776a1226454b.png)
 Публикация фото питомца:
 ![image](https://user-images.githubusercontent.com/90633901/146736793-3950a4ab-d00c-45dc-82f6-c41afffc3c2b.png)
 Удаление публикации питомца:
-![image](https://user-images.githubusercontent.com/90633901/146736846-a0feac22-dc4e-48b5-8c4d-a58774055a58.png)
+![image](https://user-images.githubusercontent.com/90633901/146813217-d0f4aea1-d1db-43d6-a4e0-636b750421a0.png)
 Обновление информации о питомце:
 ![image](https://user-images.githubusercontent.com/90633901/146736957-8ae7e682-c140-4e53-b4d9-c48008f5eb7e.png)
 По заданию добавили фикстуры:
